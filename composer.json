@@ -16,7 +16,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/magento-hackathon/magento-composer-installer"
+            "url": "https://github.com/Cotya/magento-composer-installer/"
         }
     ],
     "require": {
